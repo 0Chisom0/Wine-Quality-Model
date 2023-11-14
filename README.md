@@ -3,6 +3,7 @@
 Introduction - Like some, I enjoy having a drink of wine on occasion. Unfortunately, the acidity in the wine, upsets my sensitive stomach and prevents me from fully enjoying that experience. Going through that experience garnered my interests in those aspects that make wine taste acidic and if they are judged as poorly as i feel about them. The dataset was taken from the UC Irvine Machine Learning Repository and contains the following Columns/ Features: fixed_acidity, volatile_acidity, citric_acid, residual_sugar, chlorides, free_sulfur_dioxide, total_sulfur_dioxide, density, pH, sulphates.
 
 Wine Quality Decanter.com says - "acid found in wine, showing an aroma, rather than found on the palate".  Natasha Hughes in her guide to wine named ‘flaws’ refered to Volatile Acidity as "Although the presence of high amounts of VA is considered undesirable, in some cases a touch of volatility is no bad thing.".
+
 ![image](https://github.com/0Chisom0/Wine-Quality-Model/assets/122185866/84f05f56-8e22-4ed8-ba38-eadf3b3408b6)
 
 
